@@ -1,2 +1,89 @@
 # Internet-Application
 BTPR 1013
+<html>
+    <head>
+        <style>
+            footer {
+                text-align: center;
+                margin: 25px;
+                background-color: blue;
+                color: white;
+            }
+            body {
+                background-color:whitesmoke;
+            }
+            h1{
+                text-align:center
+            }
+            header{
+                background-color:#adecb2;
+            }
+            article{
+                border-style:solid;
+                padding-left:22px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>
+                Introduction
+            </h1>
+        </header>
+        <h2>
+            Name
+        </h2>
+        <p>
+            Matthew Millienton Ong Zong Yang
+        </p>
+        <h2>
+            Address
+        </h2>
+        <address>
+            Taman Suria, Johor Bahru, Johor.
+        </address>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7976.893069137088!2d103.75305717447033!3d1.5025075456170163!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31d062fbcf5667ed%3A0xbf0844696e243867!2sTaman%20Suria%2C%20Johor%20Bahru%2C%20Johor!5e0!3m2!1sen!2smy!4v1603432123246!5m2!1sen!2smy" width="400" height="300" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+        <h3>
+            Hobbies
+        </h3>
+        <ul>
+            <li>Gaming</li>
+            <li>Watching PC Builds</li>
+        </ul>
+        <h3>
+            Why study Software Engineering?
+        </h3>
+        <p>
+            Since I have a little knowledge about hardwares, then I want to improve myself by learning softwares and try to get myself ready to work in the society.
+        </p>
+        <h3>
+            What have I learned in this Degree?
+        </h3>
+        <ol>
+            <li>Database Systems</li>
+            <li>Object Oriented System Modelling and Analysis</li>
+            <li>Java Programming 1</li>
+            <li>Software Engineering</li>
+        </ol>
+        <h3>
+            Personal goal before 25 y/o
+        </h3>
+        <p>
+            Finish degree and get a stable income
+        </p>
+        <h3>
+            Personal goal before 30 y/o
+        </h3>
+        <p>
+            Able to get a car and try to save enough money to get my first house.
+        </p>
+
+    </body>
+
+    <footer>
+        <h1>Finish.</h1>
+    </footer>
+    
+
+</html>
